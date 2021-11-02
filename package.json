@@ -12,7 +12,7 @@
   "homepage": "https://github.com/baudehlo/node-fs-ext/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/baudehlo/node-fs-ext.git"
+    "url": "https://github.com/baudehlo/node-fs-ext.git"
   },
   "main": "fs-ext.js",
   "engines": {
